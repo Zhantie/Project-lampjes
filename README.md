@@ -13,7 +13,6 @@ De `loop()`-functie wordt continu uitgevoerd. Als Firebase gereed is, er succesv
 
 
 
-
 ## Installatie
 
 1. Open de Arduino IDE.
