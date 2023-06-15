@@ -11,14 +11,14 @@
 #define LEDPINB 12
 
 // Insert your network credentials
-#define WIFI_SSID "iPhone van Zhanton"
-#define WIFI_PASSWORD "wachtwoord"
+#define WIFI_SSID "iPhone van ******"
+#define WIFI_PASSWORD "*********"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDcdy1j2gXgse4l1m9hJQlsQnjdMGXz1Kw"
+#define API_KEY "AIza***********************MGXz1Kw"
 
 // Insert RTDB URL
-#define DATABASE_URL "https://led-lampjes-esp-default-rtdb.europe-west1.firebasedatabase.app/" 
+#define DATABASE_URL "https://led-lampjes-*******************ope-west1.firebasedatabase.app/" 
 
 //Define Firebase Data object
 FirebaseData fbdo;
