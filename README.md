@@ -10,7 +10,7 @@ In de `setup()`-functie wordt de seriële communicatie gestart, de LED-pinnen ge
 
 De `loop()`-functie wordt continu uitgevoerd. Als Firebase gereed is, er succesvol is aangemeld en er 2 seconden zijn verstreken sinds de laatste gegevensverzending, worden de LED-waarden gewijzigd. De LED's worden in- of uitgeschakeld op basis van de waarde van `ledValue1` en `ledValue2`. Vervolgens worden de nieuwe LED-waarden naar Firebase verzonden. De status van de LED-updates wordt weergegeven in de seriële monitor.
 
-
+![7pfntp](https://github.com/Zhantie/Project-lampjes/assets/74553048/43b1e1f2-ecb4-42a2-8f02-30f1d8052c28)
 
 
 ## Installatie
