@@ -10,7 +10,7 @@ In de `setup()`-functie wordt de seriële communicatie gestart, de LED-pinnen ge
 
 De `loop()`-functie wordt continu uitgevoerd. Als Firebase gereed is, er succesvol is aangemeld en er 2 seconden zijn verstreken sinds de laatste gegevensverzending, worden de LED-waarden gewijzigd. De LED's worden in- of uitgeschakeld op basis van de waarde van `ledValue1` en `ledValue2`. Vervolgens worden de nieuwe LED-waarden naar Firebase verzonden. De status van de LED-updates wordt weergegeven in de seriële monitor.
 
-
+![](include/ESP-32 POC.gif)
 
 ## Installatie
 
